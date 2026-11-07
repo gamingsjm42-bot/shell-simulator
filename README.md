@@ -10,7 +10,7 @@ that in physics velocity equations \\
     h =\overrightarrow{MM'} \\
     M: Point of mouse \\
     M':Point of circle \\
-    V0 = \sqrt2gh \\
+    V0 = \sqrt{2gh} \\
 \end{aligned}
 $$
   </p>
