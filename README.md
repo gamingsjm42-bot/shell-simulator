@@ -5,12 +5,12 @@
     $$
 \begin{aligned}
 V_x(t) &= V_{0x} \sin(\alpha) \\
-V_y(t) &= V_0 \cos(\alpha) - gt
-that in physics velocity equations
-    h =\overrightarrow{MM'}\n
-    M: Point of mouse \n
-    M':Point of circle\n
-    V0 = \sqrt(2gh)
+V_y(t) &= V_0 \cos(\alpha) - gt \\
+that in physics velocity equations \\
+    h =\overrightarrow{MM'} \\
+    M: Point of mouse \\
+    M':Point of circle \\
+    V0 = \sqrt(2gh) \\
 \end{aligned}
 $$
   </p>
