@@ -6,11 +6,11 @@
 \begin{aligned}
 V_x(t)=V_{0x}\sin(\alpha) \\
 V_y(t)=V_0 \cos(\alpha) - gt \\
-that \hspace{1cm} in \space{1cm} physics \hspace{1cm} velocity \hspace{1cm} equations \\
+that  in  physics  velocity  equations \\
 h =\overrightarrow{MM'} \\
 M: Point  of  mouse \\
 M':Point of  circle \\
-V0 =sqrt{2gh} \\
+V0 =\sqrt{2gh} \\
 \end{aligned}
 $$
   </p>
