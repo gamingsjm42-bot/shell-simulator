@@ -4,13 +4,13 @@
   <p>
     $$
 \begin{aligned}
-V_x(t)=V_{0x}\sin(\alpha) \\
-V_y(t)=V_0 \cos(\alpha) - gt \\
-that \hspace{1cm} in \hspace{1cm} physics \hspace{1cm} velocity \hspace{1cm} equations \\
-    h =\overrightarrow{MM'} \\
-    M: Point \dot of \dot mouse \\
-    M':Point \dot of \dot circle \\
-    V0 = \sqrt{2gh} \\
+V_x(t)=V_{0x}\sin(\alpha) 
+V_y(t)=V_0 \cos(\alpha) - gt 
+that \hspace{1cm} in \hspace{1cm} physics \hspace{1cm} velocity \hspace{1cm} equations 
+    h =\overrightarrow{MM'} 
+    M: Point \dot of \dot mouse 
+    M':Point \dot of \dot circle 
+    V0 = \sqrt{2gh} 
 \end{aligned}
 $$
   </p>
