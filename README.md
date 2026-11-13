@@ -1,6 +1,6 @@
 <h1>1.What This App:</h1>
 <h3>An Physics simulator</h3>
-<h1>2.what mathematic do</h1>
+<h1>2.mathematic & physics side</h1>
   <p>
     $$
 \begin{aligned}
