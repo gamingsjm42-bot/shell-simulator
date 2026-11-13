@@ -1,7 +1,7 @@
 <h1>1.What This App:</h1>
 <h3>An Physics simulator</h3>
 <h1>2.mathematic & physics side</h1>
-  <p>
+  <h4>
     $$
 \begin{aligned}
 V_x(t)=V_{0x}\sin(\alpha) \\
@@ -13,7 +13,7 @@ M':Point \, of \, circle \\
 V0 =\sqrt{2gh} \\
 \end{aligned}
 $$
-  </p>
+  </h4>
 <h1>3.How to use it:</h1>
 <h3>2.in your open cmd on windows or terminal on linux then copy this: </h3>
 <h4>./run.sh</h4>
